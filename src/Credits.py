@@ -12,7 +12,7 @@ class Credits:
         self.labels=[""]*20
         self.labels[0]=font.render("Project Space Dragon",1,(255,255,0))
         self.labels[1]=font.render("",1,(255,255,0))
-        self.labels[2]=font.render(u"\u00a92015 CompSci Squad A",1,(255,255,0))
+        self.labels[2]=font.render("",1,(255,255,0))
         self.labels[3]=font.render("Joshua Richardson - Starmap/Initial development",1,(255,255,0))
         self.labels[4]=font.render("Tom Whitehouse - The Idea/Initial development",1,(255,255,0))
         self.labels[5]=font.render("Youssef the muncher - Nothing",1,(255,255,0))
